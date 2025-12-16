@@ -1,0 +1,6 @@
+[2025-07-29 13:28:57 CEST] ERROR: Connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. "
+}
+[2025-07-29 13:28:57 CEST] ERROR: Exception - Details: {
+    "message": "Connection error: php_network_getaddresses: getaddrinfo failed: No such host is known. "
+}

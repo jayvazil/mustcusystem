@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333; }
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; background-color: #ffffff; border: 2px solid #0207ba; }
+        .header { background-color: #0207ba; color: #fff000; padding: 10px; text-align: center; }
+        .button { display: inline-block; padding: 10px 20px; background-color: #ff7900; color: #0207ba; text-decoration: none; border-radius: 5px; }
+        .button:hover { background-color: #fff000; }
+        @media (max-width: 600px) { .container { padding: 10px; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>MUST Christian Union</h2>
+        </div>
+        <p>Dear Admin,</p>
+        <p>The position of {{position}} in {{docket}} is vacant.</p>
+        <p>Please assign a new holder within {{days}} days.</p>
+        <p><a href="https://admin.mustcu.or.ke/manage_positions.php" class="button">Manage Positions</a></p>
+        <p>Best regards,<br>MUST CU Media Team</p>
+    </div>
+</body>
+</html>

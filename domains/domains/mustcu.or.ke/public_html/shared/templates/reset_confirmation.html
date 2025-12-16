@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333; }
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; background-color: #ffffff; border: 2px solid #0207ba; }
+        .header { background-color: #0207ba; color: #fff000; padding: 10px; text-align: center; }
+        @media (max-width: 600px) { .container { padding: 10px; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>MUST Christian Union</h2>
+        </div>
+        <p>Dear {{role}},</p>
+        <p>Your password for your {{role}} account ({{email}}) has been reset successfully.</p>
+        <p><strong>New Password:</strong> {{new_password}}</p>
+        <p><strong>Reset Time:</strong> {{timestamp}}</p>
+        <p>Please log in with your new password and change it if needed.</p>
+        <p>Best regards,<br>MUST CU Media Team</p>
+    </div>
+</body>
+</html>

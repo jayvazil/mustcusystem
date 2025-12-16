@@ -1,0 +1,2654 @@
+[2025-08-05 08:56:03 EAT] ERROR: Database error: Database connection is not established. Please check db_connect.php.
+[2025-08-26 19:26:43 EAT] ERROR: Database error: Database connection is not established. Please check db_connect.php.
+[2025-08-26 19:26:54 EAT] ERROR: Database error: Database connection is not established. Please check db_connect.php.
+[2025-09-02 16:27:57 EAT] ERROR: Database error: Database connection is not established. Please check db_connect.php.
+[2025-09-02 17:08:47 EAT] ERROR: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 471,
+            "active_subscribers": 372,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 470,
+            "active_phone_count": 470,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-08-30 14:32:57",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-02 17:08:47 EAT] ERROR: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-02 17:08:47 EAT] ERROR: Creating campaign with payload - Details: {
+    "title": "MUST CU Announcement - 2025-09-02 17:08:47",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: Daily Manna - Psalm 127:1\u20132 (NIV)",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true
+}
+[2025-09-02 17:08:50 EAT] ERROR: Attempting to send scheduled campaign immediately - Details: {
+    "campaign_id": "aO3QkG"
+}
+[2025-09-02 17:08:50 EAT] ERROR: Scheduled campaign status - Details: {
+    "campaign_id": "aO3QkG",
+    "status": "DRAFT"
+}
+[2025-09-02 17:08:50 EAT] ERROR: Scheduled campaign send failed - Details: {
+    "campaign_id": "aO3QkG",
+    "status_code": 404,
+    "response": {
+        "message": "The route v2\/campaigns\/aO3QkG\/actions\/send could not be found."
+    }
+}
+[2025-09-02 17:08:50 EAT] ERROR: Campaign send failure details - Details: {
+    "campaign_id": "aO3QkG",
+    "error": "Failed to send scheduled campaign: Status 404",
+    "status_code": 404,
+    "selected_groups": [
+        "bkX56X"
+    ],
+    "send_method": "scheduled"
+}
+[2025-09-02 17:08:50 EAT] ERROR: Campaign created but failed to send: Failed to send scheduled campaign: Status 404
+[2025-09-02 17:17:24 EAT] ERROR: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 471,
+            "active_subscribers": 372,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 470,
+            "active_phone_count": 470,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-08-30 14:32:57",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-02 17:17:24 EAT] ERROR: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-02 17:17:24 EAT] ERROR: Creating campaign with payload - Details: {
+    "title": "MUST CU Announcement - 2025-09-02 17:17:24",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: Daily Manna - Psalm 127:1\u20132 (NIV)",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true
+}
+[2025-09-02 17:17:26 EAT] ERROR: Attempting to send scheduled campaign immediately - Details: {
+    "campaign_id": "aO3QoG"
+}
+[2025-09-02 17:17:27 EAT] ERROR: Scheduled campaign status - Details: {
+    "campaign_id": "aO3QoG",
+    "status": "DRAFT"
+}
+[2025-09-02 17:17:27 EAT] ERROR: Scheduled campaign sent successfully using PATCH - Details: {
+    "campaign_id": "aO3QoG",
+    "status_code": 200
+}
+[2025-09-02 17:17:27 EAT] ERROR: Campaign sent successfully - Details: {
+    "campaign_id": "aO3QoG",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: Daily Manna - Psalm 127:1\u20132 (NIV)",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "immediate",
+    "send_scheduled_now": true
+}
+[2025-09-02 17:18:10 EAT] ERROR: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 471,
+            "active_subscribers": 372,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 470,
+            "active_phone_count": 470,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-08-30 14:32:57",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-02 17:18:10 EAT] ERROR: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-02 17:18:10 EAT] ERROR: Creating campaign with payload - Details: {
+    "title": "MUST CU Newsletter - 2025-09-02 17:18:10",
+    "subject": "\ud83d\udcdc\ud83d\udcd6MUST CU DAILY DEVOTION: MUST Christian Union \u2013 Sound System Project Reminder \ud83c\udfb6",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true
+}
+[2025-09-02 17:18:12 EAT] ERROR: Attempting to send scheduled campaign immediately - Details: {
+    "campaign_id": "dR3Wr0"
+}
+[2025-09-02 17:18:12 EAT] ERROR: Scheduled campaign status - Details: {
+    "campaign_id": "dR3Wr0",
+    "status": "DRAFT"
+}
+[2025-09-02 17:18:12 EAT] ERROR: Scheduled campaign sent successfully using PATCH - Details: {
+    "campaign_id": "dR3Wr0",
+    "status_code": 200
+}
+[2025-09-02 17:18:12 EAT] ERROR: Campaign sent successfully - Details: {
+    "campaign_id": "dR3Wr0",
+    "subject": "\ud83d\udcdc\ud83d\udcd6MUST CU DAILY DEVOTION: MUST Christian Union \u2013 Sound System Project Reminder \ud83c\udfb6",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "immediate",
+    "send_scheduled_now": true
+}
+[2025-09-02 17:29:35 EAT] ERROR: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 471,
+            "active_subscribers": 372,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 470,
+            "active_phone_count": 470,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-08-30 14:32:57",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-02 17:29:35 EAT] ERROR: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-02 17:29:35 EAT] ERROR: Creating campaign with payload - Details: {
+    "title": "MUST CU Announcement - 2025-09-02 17:29:35",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: tgyuuhj",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true,
+    "status": "active",
+    "schedule_time": "none"
+}
+[2025-09-02 17:29:37 EAT] ERROR: Attempting to send scheduled campaign immediately - Details: {
+    "campaign_id": "ejpykY"
+}
+[2025-09-02 17:29:37 EAT] ERROR: Scheduled campaign status - Details: {
+    "campaign_id": "ejpykY",
+    "status": "DRAFT"
+}
+[2025-09-02 17:29:38 EAT] ERROR: Scheduled campaign sent successfully using PATCH - Details: {
+    "campaign_id": "ejpykY",
+    "status_code": 200
+}
+[2025-09-02 17:29:38 EAT] ERROR: Campaign sent successfully - Details: {
+    "campaign_id": "ejpykY",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: tgyuuhj",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "immediate",
+    "send_scheduled_now": true
+}
+[2025-09-02 17:32:52 EAT] ERROR: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 471,
+            "active_subscribers": 372,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 470,
+            "active_phone_count": 470,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-08-30 14:32:57",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-02 17:32:52 EAT] ERROR: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-02 17:32:52 EAT] ERROR: Creating campaign with payload - Details: {
+    "title": "MUST CU Event - 2025-09-02 17:32:52",
+    "subject": "MUST CU EVENTS: ryftgu",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true,
+    "status": "active",
+    "schedule_time": "none"
+}
+[2025-09-02 17:32:55 EAT] ERROR: Attempting to send scheduled campaign immediately - Details: {
+    "campaign_id": "aM302P"
+}
+[2025-09-02 17:32:55 EAT] ERROR: Scheduled campaign status - Details: {
+    "campaign_id": "aM302P",
+    "status": "DRAFT"
+}
+[2025-09-02 17:32:55 EAT] ERROR: Scheduled campaign sent successfully using PATCH - Details: {
+    "campaign_id": "aM302P",
+    "status_code": 200
+}
+[2025-09-02 17:32:55 EAT] ERROR: Campaign sent successfully - Details: {
+    "campaign_id": "aM302P",
+    "subject": "MUST CU EVENTS: ryftgu",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "immediate",
+    "send_scheduled_now": true
+}
+[2025-09-02 17:39:11 EAT] ERROR: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 471,
+            "active_subscribers": 372,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 470,
+            "active_phone_count": 470,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-08-30 14:32:57",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-02 17:39:11 EAT] ERROR: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-02 17:39:11 EAT] ERROR: Creating campaign with payload - Details: {
+    "title": "MUST CU Newsletter - 2025-09-02 17:39:11",
+    "subject": "\ud83d\udcdc\ud83d\udcd6MUST CU DAILY DEVOTION: Psalm 127:1\u20132 (NIV)",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true,
+    "status": "active",
+    "schedule_time": "none"
+}
+[2025-09-02 17:39:13 EAT] ERROR: Attempting to send scheduled campaign immediately - Details: {
+    "campaign_id": "b2K6oj"
+}
+[2025-09-02 17:39:13 EAT] ERROR: Scheduled campaign status - Details: {
+    "campaign_id": "b2K6oj",
+    "status": "DRAFT"
+}
+[2025-09-02 17:39:13 EAT] ERROR: Scheduled campaign sent successfully using PATCH - Details: {
+    "campaign_id": "b2K6oj",
+    "status_code": 200
+}
+[2025-09-02 17:39:13 EAT] ERROR: Campaign sent successfully - Details: {
+    "campaign_id": "b2K6oj",
+    "subject": "\ud83d\udcdc\ud83d\udcd6MUST CU DAILY DEVOTION: Psalm 127:1\u20132 (NIV)",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "immediate",
+    "send_scheduled_now": true
+}
+[2025-09-02 17:40:11 EAT] ERROR: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 471,
+            "active_subscribers": 372,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 470,
+            "active_phone_count": 470,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-08-30 14:32:57",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-02 17:40:11 EAT] ERROR: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-02 17:40:11 EAT] ERROR: Creating campaign with payload - Details: {
+    "title": "MUST CU Default - 2025-09-02 17:40:11",
+    "subject": "MUST CU GENERAL REMINDER: Daily Manna - Psalm 127:1\u20132 (NIV)",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true,
+    "status": "scheduled",
+    "schedule_time": "2025-09-24T17:40:00+03:00"
+}
+[2025-09-02 17:40:11 EAT] ERROR: Campaign scheduled successfully - Details: {
+    "campaign_id": "b4Mgqg",
+    "subject": "MUST CU GENERAL REMINDER: Daily Manna - Psalm 127:1\u20132 (NIV)",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "2025-09-24T17:40",
+    "send_scheduled_now": false
+}
+[2025-09-03 17:16:28 EAT] ERROR: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 471,
+            "active_subscribers": 372,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 470,
+            "active_phone_count": 470,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-08-30 14:32:57",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-03 17:16:28 EAT] ERROR: Selected groups - Details: {
+    "recipient_type": "leaders",
+    "selected_groups": [
+        "e7V6nj"
+    ]
+}
+[2025-09-03 17:16:28 EAT] ERROR: Creating campaign with payload - Details: {
+    "title": "MUST CU Announcement - 2025-09-03 17:16:28",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: Leaders registration",
+    "groups": [
+        "e7V6nj"
+    ],
+    "has_html": true,
+    "has_text": true,
+    "status": "active",
+    "schedule_time": "none"
+}
+[2025-09-03 17:16:31 EAT] ERROR: Attempting to send campaign - Details: {
+    "campaign_id": "b8QwPm"
+}
+[2025-09-03 17:16:31 EAT] ERROR: Campaign status before sending - Details: {
+    "campaign_id": "b8QwPm",
+    "status": "DRAFT"
+}
+[2025-09-03 17:16:32 EAT] ERROR: Campaign send successful using PATCH method - Details: {
+    "campaign_id": "b8QwPm",
+    "status_code": 200
+}
+[2025-09-03 17:16:32 EAT] ERROR: Campaign sent successfully - Details: {
+    "campaign_id": "b8QwPm",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: Leaders registration",
+    "groups": [
+        "e7V6nj"
+    ],
+    "scheduled": "immediate",
+    "send_scheduled_now": false
+}
+[2025-09-19 19:51:59 EAT] ERROR: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 474,
+            "active_subscribers": 375,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 473,
+            "active_phone_count": 473,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-09-19 14:22:42",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-19 19:51:59 EAT] ERROR: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-19 19:51:59 EAT] ERROR: Creating campaign with payload - Details: {
+    "title": "MUST CU Announcement - 2025-09-19 19:51:59",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: Compassion Day",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true,
+    "status": "active",
+    "schedule_time": "none"
+}
+[2025-09-19 19:52:00 EAT] ERROR: Failed to attach file to campaign - Details: {
+    "campaign_id": "b6PjpR",
+    "status_code": 422,
+    "response": {
+        "message": "File type accepted: doc,docx,xml,pdf,xlsx,xls,jpg,jpeg,png,svg.",
+        "errors": {
+            "file": [
+                "File type accepted: doc,docx,xml,pdf,xlsx,xls,jpg,jpeg,png,svg."
+            ]
+        }
+    }
+}
+[2025-09-19 19:52:00 EAT] ERROR: Attachment failed but campaign created - Details: {
+    "campaign_id": "b6PjpR"
+}
+[2025-09-19 19:52:02 EAT] ERROR: Attempting to send scheduled campaign immediately - Details: {
+    "campaign_id": "b6PjpR"
+}
+[2025-09-19 19:52:02 EAT] ERROR: Scheduled campaign status - Details: {
+    "campaign_id": "b6PjpR",
+    "status": "DRAFT"
+}
+[2025-09-19 19:52:02 EAT] ERROR: Scheduled campaign sent successfully using PATCH - Details: {
+    "campaign_id": "b6PjpR",
+    "status_code": 200
+}
+[2025-09-19 19:52:02 EAT] ERROR: Campaign sent successfully - Details: {
+    "campaign_id": "b6PjpR",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: Compassion Day",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "immediate",
+    "send_scheduled_now": true
+}
+[2025-09-19 19:52:03 EAT] ERROR: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 474,
+            "active_subscribers": 375,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 473,
+            "active_phone_count": 473,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-09-19 14:22:42",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-19 19:52:03 EAT] ERROR: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-19 19:52:03 EAT] ERROR: Creating campaign with payload - Details: {
+    "title": "MUST CU Announcement - 2025-09-19 19:52:03",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: Compassion Day",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true,
+    "status": "active",
+    "schedule_time": "none"
+}
+[2025-09-19 19:52:03 EAT] ERROR: Failed to attach file to campaign - Details: {
+    "campaign_id": "e7Qkq1",
+    "status_code": 422,
+    "response": {
+        "message": "File type accepted: doc,docx,xml,pdf,xlsx,xls,jpg,jpeg,png,svg.",
+        "errors": {
+            "file": [
+                "File type accepted: doc,docx,xml,pdf,xlsx,xls,jpg,jpeg,png,svg."
+            ]
+        }
+    }
+}
+[2025-09-19 19:52:03 EAT] ERROR: Attachment failed but campaign created - Details: {
+    "campaign_id": "e7Qkq1"
+}
+[2025-09-19 19:52:05 EAT] ERROR: Attempting to send scheduled campaign immediately - Details: {
+    "campaign_id": "e7Qkq1"
+}
+[2025-09-19 19:52:06 EAT] ERROR: Scheduled campaign status - Details: {
+    "campaign_id": "e7Qkq1",
+    "status": "DRAFT"
+}
+[2025-09-19 19:52:06 EAT] ERROR: Scheduled campaign sent successfully using PATCH - Details: {
+    "campaign_id": "e7Qkq1",
+    "status_code": 200
+}
+[2025-09-19 19:52:06 EAT] ERROR: Campaign sent successfully - Details: {
+    "campaign_id": "e7Qkq1",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: Compassion Day",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "immediate",
+    "send_scheduled_now": true
+}
+[2025-09-19 20:07:03 EAT] ERROR: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 474,
+            "active_subscribers": 375,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 473,
+            "active_phone_count": 473,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-09-19 14:22:42",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-19 20:07:03 EAT] ERROR: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-19 20:07:03 EAT] ERROR: Creating campaign with payload - Details: {
+    "title": "MUST CU Announcement - 2025-09-19 20:07:03",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: Compassion Day",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true,
+    "status": "active",
+    "schedule_time": "none"
+}
+[2025-09-19 20:07:04 EAT] ERROR: Failed to attach file to campaign - Details: {
+    "campaign_id": "dBkyGk",
+    "status_code": 422,
+    "response": {
+        "message": "File type accepted: doc,docx,xml,pdf,xlsx,xls,jpg,jpeg,png,svg.",
+        "errors": {
+            "file": [
+                "File type accepted: doc,docx,xml,pdf,xlsx,xls,jpg,jpeg,png,svg."
+            ]
+        }
+    }
+}
+[2025-09-19 20:07:04 EAT] ERROR: Attachment failed but campaign created - Details: {
+    "campaign_id": "dBkyGk"
+}
+[2025-09-19 20:07:06 EAT] ERROR: Attempting to send scheduled campaign immediately - Details: {
+    "campaign_id": "dBkyGk"
+}
+[2025-09-19 20:07:06 EAT] ERROR: Scheduled campaign status - Details: {
+    "campaign_id": "dBkyGk",
+    "status": "DRAFT"
+}
+[2025-09-19 20:07:06 EAT] ERROR: Scheduled campaign sent successfully using PATCH - Details: {
+    "campaign_id": "dBkyGk",
+    "status_code": 200
+}
+[2025-09-19 20:07:06 EAT] ERROR: Campaign sent successfully - Details: {
+    "campaign_id": "dBkyGk",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: Compassion Day",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "immediate",
+    "send_scheduled_now": true
+}
+[2025-09-25 12:47:10 EAT] INFO: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 474,
+            "active_subscribers": 375,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 473,
+            "active_phone_count": 473,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-09-19 14:22:42",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-25 12:47:10 EAT] INFO: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-25 12:47:10 EAT] INFO: Creating campaign with payload - Details: {
+    "title": "MUST CU Announcement - 2025-09-25 12:47:10",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT:  Daily Devotion: \"Strength for Today\"",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true
+}
+[2025-09-25 12:47:11 EAT] INFO: Scheduling campaign response - Details: {
+    "campaign_id": "axJEgz",
+    "status_code": 200,
+    "response": {
+        "success": true,
+        "message": "Success scheduled"
+    },
+    "schedule_time": "2025-09-30T12:46:00+03:00"
+}
+[2025-09-25 12:47:11 EAT] SUCCESS: Campaign scheduled successfully - Details: {
+    "campaign_id": "axJEgz",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT:  Daily Devotion: \"Strength for Today\"",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "2025-09-30T12:46",
+    "send_scheduled_now": false
+}
+[2025-09-25 12:52:08 EAT] INFO: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 474,
+            "active_subscribers": 375,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 473,
+            "active_phone_count": 473,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-09-19 14:22:42",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-25 12:52:08 EAT] INFO: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-25 12:52:08 EAT] INFO: Creating campaign with payload - Details: {
+    "title": "MUST CU Default - 2025-09-25 12:52:08",
+    "subject": "MUST CU GENERAL REMINDER: MUST Christian Union \u2013 Sound System Project Reminder \ud83c\udfb6",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true
+}
+[2025-09-25 12:52:08 EAT] INFO: Scheduling campaign response - Details: {
+    "campaign_id": "e3MnN4",
+    "status_code": 200,
+    "response": {
+        "success": true,
+        "message": "Success scheduled"
+    },
+    "schedule_time": "2025-09-30T12:51:00+03:00"
+}
+[2025-09-25 12:52:09 EAT] SUCCESS: Campaign scheduled successfully - Details: {
+    "campaign_id": "e3MnN4",
+    "subject": "MUST CU GENERAL REMINDER: MUST Christian Union \u2013 Sound System Project Reminder \ud83c\udfb6",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "2025-09-30T12:51",
+    "send_scheduled_now": false
+}
+[2025-09-25 12:53:54 EAT] INFO: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 474,
+            "active_subscribers": 375,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 473,
+            "active_phone_count": 473,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-09-19 14:22:42",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-25 12:53:54 EAT] INFO: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-25 12:53:54 EAT] INFO: Creating campaign with payload - Details: {
+    "title": "MUST CU Default - 2025-09-25 12:53:54",
+    "subject": "MUST CU GENERAL REMINDER: MUST Christian Union \u2013 Sound System Project Reminder \ud83c\udfb6",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true
+}
+[2025-09-25 12:53:54 EAT] INFO: Scheduling campaign response - Details: {
+    "campaign_id": "b8RvJ2",
+    "status_code": 200,
+    "response": {
+        "success": true,
+        "message": "Success scheduled"
+    },
+    "schedule_time": "2025-09-30T12:51:00+03:00"
+}
+[2025-09-25 12:53:54 EAT] SUCCESS: Campaign scheduled successfully - Details: {
+    "campaign_id": "b8RvJ2",
+    "subject": "MUST CU GENERAL REMINDER: MUST Christian Union \u2013 Sound System Project Reminder \ud83c\udfb6",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "2025-09-30T12:51",
+    "send_scheduled_now": false
+}
+[2025-09-25 13:05:17 EAT] INFO: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 474,
+            "active_subscribers": 375,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 473,
+            "active_phone_count": 473,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-09-19 14:22:42",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-25 13:05:17 EAT] INFO: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-25 13:05:17 EAT] INFO: Creating campaign with payload - Details: {
+    "title": "MUST CU Default - 2025-09-25 13:05:17",
+    "subject": "MUST CU GENERAL REMINDER: ewrty",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true
+}
+[2025-09-25 13:05:17 EAT] INFO: Scheduling campaign response - Details: {
+    "campaign_id": "b8Rv52",
+    "status_code": 200,
+    "response": {
+        "success": true,
+        "message": "Success scheduled"
+    },
+    "schedule_time": "2025-09-30T13:05:00+03:00"
+}
+[2025-09-25 13:05:18 EAT] SUCCESS: Campaign scheduled successfully - Details: {
+    "campaign_id": "b8Rv52",
+    "subject": "MUST CU GENERAL REMINDER: ewrty",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "2025-09-30T13:05",
+    "send_scheduled_now": false
+}
+[2025-09-25 13:08:46 EAT] INFO: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 474,
+            "active_subscribers": 375,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 473,
+            "active_phone_count": 473,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-09-19 14:22:42",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-25 13:08:46 EAT] INFO: Selected groups - Details: {
+    "recipient_type": "members",
+    "selected_groups": [
+        "bkX56X"
+    ]
+}
+[2025-09-25 13:08:46 EAT] INFO: Creating campaign with payload - Details: {
+    "title": "MUST CU Default - 2025-09-25 13:08:46",
+    "subject": "MUST CU GENERAL REMINDER: ewrty",
+    "groups": [
+        "bkX56X"
+    ],
+    "has_html": true,
+    "has_text": true
+}
+[2025-09-25 13:08:46 EAT] INFO: Scheduling campaign response - Details: {
+    "campaign_id": "elqon7",
+    "status_code": 200,
+    "response": {
+        "success": true,
+        "message": "Success scheduled"
+    },
+    "schedule_time": "2025-09-30T13:05:00+03:00"
+}
+[2025-09-25 13:08:47 EAT] SUCCESS: Campaign scheduled successfully - Details: {
+    "campaign_id": "elqon7",
+    "subject": "MUST CU GENERAL REMINDER: ewrty",
+    "groups": [
+        "bkX56X"
+    ],
+    "scheduled": "2025-09-30T13:05",
+    "send_scheduled_now": false
+}
+[2025-09-25 15:59:33 EAT] INFO: Groups fetched successfully - Details: {
+    "count": 7,
+    "groups": [
+        {
+            "id": "bmNnBO",
+            "title": "associates",
+            "recipient_count": 108,
+            "active_subscribers": 99,
+            "unsubscribed_count": 2,
+            "bounced_count": 7,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-07-06 23:35:13",
+            "modified": "2025-08-01 14:57:37",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "en6x4Y",
+            "title": "New subscribers",
+            "recipient_count": 0,
+            "active_subscribers": 0,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 0,
+            "active_phone_count": 0,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-20 14:22:22",
+            "modified": null,
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bqLRm2",
+            "title": "Test group (info@mustcu.or.ke)",
+            "recipient_count": 3,
+            "active_subscribers": 3,
+            "unsubscribed_count": 0,
+            "bounced_count": 0,
+            "phone_count": 2,
+            "active_phone_count": 2,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-08 09:56:10",
+            "modified": "2025-08-29 03:38:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "e7V6nj",
+            "title": "leaders",
+            "recipient_count": 108,
+            "active_subscribers": 104,
+            "unsubscribed_count": 0,
+            "bounced_count": 4,
+            "phone_count": 108,
+            "active_phone_count": 108,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:23:31",
+            "modified": "2025-07-07 07:25:45",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "erV0l2",
+            "title": "all",
+            "recipient_count": 574,
+            "active_subscribers": 471,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 573,
+            "active_phone_count": 573,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-14 10:25:58",
+            "modified": "2025-08-29 03:39:20",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "aO6WoE",
+            "title": "Members2025",
+            "recipient_count": 780,
+            "active_subscribers": 677,
+            "unsubscribed_count": 4,
+            "bounced_count": 99,
+            "phone_count": 775,
+            "active_phone_count": 775,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-08-29 03:35:38",
+            "modified": "2025-08-29 03:39:14",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        },
+        {
+            "id": "bkX56X",
+            "title": "members",
+            "recipient_count": 474,
+            "active_subscribers": 375,
+            "unsubscribed_count": 4,
+            "bounced_count": 95,
+            "phone_count": 473,
+            "active_phone_count": 473,
+            "account_id": "b81Bvl",
+            "user_id": "bYlnmn",
+            "created": "2025-05-13 16:44:54",
+            "modified": "2025-09-19 14:22:42",
+            "is_recalculating_subscribers": false,
+            "is_favourite": false
+        }
+    ]
+}
+[2025-09-25 15:59:33 EAT] INFO: Selected groups - Details: {
+    "recipient_type": "all",
+    "selected_groups": [
+        "erV0l2"
+    ]
+}
+[2025-09-25 15:59:33 EAT] INFO: Creating campaign with payload - Details: {
+    "title": "MUST CU Announcement - 2025-09-25 15:59:33",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: A Quick Reminder about Your Pledge to the Sound System Project",
+    "groups": [
+        "erV0l2"
+    ],
+    "has_html": true,
+    "has_text": true
+}
+[2025-09-25 15:59:33 EAT] ERROR: Failed to attach file to campaign - Details: {
+    "campaign_id": "erzxQp",
+    "status_code": 422,
+    "response": {
+        "message": "File type accepted: doc,docx,xml,pdf,xlsx,xls,jpg,jpeg,png,svg.",
+        "errors": {
+            "file": [
+                "File type accepted: doc,docx,xml,pdf,xlsx,xls,jpg,jpeg,png,svg."
+            ]
+        }
+    }
+}
+[2025-09-25 15:59:33 EAT] WARNING: Attachment failed but campaign created - Details: {
+    "campaign_id": "erzxQp"
+}
+[2025-09-25 15:59:36 EAT] INFO: Attempting to send campaign - Details: {
+    "campaign_id": "erzxQp"
+}
+[2025-09-25 15:59:36 EAT] INFO: Campaign status before sending - Details: {
+    "campaign_id": "erzxQp",
+    "status": "DRAFT"
+}
+[2025-09-25 15:59:36 EAT] WARNING: Primary send method failed, trying PATCH method - Details: {
+    "campaign_id": "erzxQp",
+    "status_code": 404,
+    "response": {
+        "message": "The route v2\/campaigns\/erzxQp\/actions\/send could not be found."
+    }
+}
+[2025-09-25 15:59:36 EAT] SUCCESS: Campaign send successful using PATCH method - Details: {
+    "campaign_id": "erzxQp",
+    "status_code": 200
+}
+[2025-09-25 15:59:36 EAT] SUCCESS: Campaign sent successfully - Details: {
+    "campaign_id": "erzxQp",
+    "subject": "\ud83d\udce2\ud83d\udd0a\u2757\u2757\u2757IMPORTANT ANNOUNCEMENT: A Quick Reminder about Your Pledge to the Sound System Project",
+    "groups": [
+        "erV0l2"
+    ],
+    "scheduled": "immediate",
+    "send_scheduled_now": false
+}

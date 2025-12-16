@@ -1,0 +1,143 @@
+[2025-07-22 14:50:27 CEST] ERROR: Database connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "errno": 2002
+}
+[2025-07-22 14:50:27 CEST] ERROR: Exception in database connection - Details: {
+    "message": "Failed to connect to database: php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "file": "C:\\xampp\\htdocs\\SYSTEM PRO\\shared\\includes\\db_connect.php",
+    "line": 28
+}
+[2025-07-22 14:50:29 CEST] ERROR: Database connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "errno": 2002
+}
+[2025-07-22 14:50:29 CEST] ERROR: Exception in database connection - Details: {
+    "message": "Failed to connect to database: php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "file": "C:\\xampp\\htdocs\\SYSTEM PRO\\shared\\includes\\db_connect.php",
+    "line": 28
+}
+[2025-07-27 17:52:52 CEST] ERROR: Database connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "errno": 2002
+}
+[2025-07-27 17:52:52 CEST] ERROR: Exception in database connection - Details: {
+    "message": "Failed to connect to database: php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "file": "C:\\xampp\\htdocs\\SYSTEM PRO\\shared\\includes\\db_connect.php",
+    "line": 28
+}
+[2025-07-27 18:06:44 CEST] ERROR: Database connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "errno": 2002
+}
+[2025-07-27 18:06:44 CEST] ERROR: Exception in database connection - Details: {
+    "message": "Failed to connect to database: php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "file": "C:\\xampp\\htdocs\\SYSTEM PRO\\shared\\includes\\db_connect.php",
+    "line": 28
+}
+[2025-07-27 18:12:26 CEST] ERROR: Database connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "errno": 2002
+}
+[2025-07-27 18:12:26 CEST] ERROR: Exception in database connection - Details: {
+    "message": "Failed to connect to database: php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "file": "C:\\xampp\\htdocs\\SYSTEM PRO\\shared\\includes\\db_connect.php",
+    "line": 28
+}
+[2025-07-29 11:43:37 CEST] ERROR: Database connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "errno": 2002
+}
+[2025-07-29 11:43:37 CEST] ERROR: Exception in database connection - Details: {
+    "message": "Failed to connect to database: php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "file": "C:\\xampp\\htdocs\\SYSTEM PRO\\shared\\includes\\db_connect.php",
+    "line": 28
+}
+[2025-07-29 13:05:15 CEST] ERROR: Database connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "errno": 2002
+}
+[2025-07-29 13:05:15 CEST] ERROR: Exception in database connection - Details: {
+    "message": "Failed to connect to database: php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "file": "C:\\xampp\\htdocs\\SYSTEM PRO\\shared\\includes\\db_connect.php",
+    "line": 28
+}
+[2025-07-29 13:13:22 CEST] ERROR: Database connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "errno": 2002
+}
+[2025-07-29 13:13:22 CEST] ERROR: Exception in database connection - Details: {
+    "message": "Failed to connect to database: php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "file": "C:\\xampp\\htdocs\\SYSTEM PRO\\shared\\includes\\db_connect.php",
+    "line": 28
+}
+[2025-07-29 13:22:15 CEST] ERROR: Database connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "errno": 2002
+}
+[2025-07-29 13:22:15 CEST] ERROR: Exception in database connection - Details: {
+    "message": "Failed to connect to database: php_network_getaddresses: getaddrinfo failed: No such host is known. ",
+    "file": "C:\\xampp\\htdocs\\SYSTEM PRO\\shared\\includes\\db_connect.php",
+    "line": 28
+}
+[2025-07-29 13:26:41 CEST] ERROR: Connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. "
+}
+[2025-07-29 13:26:41 CEST] ERROR: Exception - Details: {
+    "message": "Connection error: php_network_getaddresses: getaddrinfo failed: No such host is known. "
+}
+[2025-07-29 13:26:47 CEST] ERROR: Connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. "
+}
+[2025-07-29 13:26:47 CEST] ERROR: Exception - Details: {
+    "message": "Connection error: php_network_getaddresses: getaddrinfo failed: No such host is known. "
+}
+[2025-07-29 13:26:51 CEST] ERROR: Connection failed - Details: {
+    "error": "php_network_getaddresses: getaddrinfo failed: No such host is known. "
+}
+[2025-07-29 13:26:51 CEST] ERROR: Exception - Details: {
+    "message": "Connection error: php_network_getaddresses: getaddrinfo failed: No such host is known. "
+}
+[2025-07-31 20:01:38 EAT] ERROR: Database connection failed - Details: {
+    "message": "SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known",
+    "code": 2002
+}
+[2025-07-31 20:02:08 EAT] ERROR: Database connection failed - Details: {
+    "message": "SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known",
+    "code": 2002
+}
+[2025-08-01 13:21:20 EAT] ERROR: Database connection failed - Details: {
+    "message": "SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known",
+    "code": 2002
+}
+[2025-08-01 13:35:39 EAT] ERROR: Database connection failed - Details: {
+    "message": "SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known",
+    "code": 2002
+}
+[2025-08-01 14:00:43 EAT] ERROR: Database connection failed - Details: {
+    "message": "SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known",
+    "code": 2002
+}
+[2025-08-01 14:19:47 EAT] ERROR: Database connection failed - Details: {
+    "message": "SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known",
+    "code": 2002
+}
+[2025-08-01 14:20:30 EAT] ERROR: Database connection failed - Details: {
+    "message": "SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known",
+    "code": 2002
+}
+[2025-08-01 15:10:29 EAT] ERROR: Database connection failed - Details: {
+    "message": "SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known",
+    "code": 2002
+}
+[2025-08-01 15:10:33 EAT] ERROR: Database connection failed - Details: {
+    "message": "SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known",
+    "code": 2002
+}
+[2025-08-01 15:10:48 EAT] ERROR: Database connection failed - Details: {
+    "message": "SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known",
+    "code": 2002
+}
+[2025-08-01 15:16:57 EAT] ERROR: Database connection failed - Details: {
+    "message": "SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known",
+    "code": 2002
+}

@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteBase /
+
+# Redirect URLs ending in .php to clean version
+RewriteCond %{THE_REQUEST} \s/(.+?)\.php[\s?] [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# Rewrite clean URLs to .php if file exists
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*?)/?$ $1.php [L]

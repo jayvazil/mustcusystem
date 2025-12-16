@@ -1,0 +1,97 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+
+
+.reset-btn {
+    background-color: #0207ba;
+    color: #fff000;
+    border: 2px solid #ff7900;
+    border-radius: 20px;
+    padding: 5px 15px;
+    margin: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.reset-btn:hover {
+    background-color: #ff7900;
+    color: #0207ba;
+}
+
+.alert {
+    border: 2px solid #0207ba;
+    color: #fff000;
+    background-color: rgba(2, 7, 186, 0.1);
+}
+
+.alert-danger {
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+.alert-success {
+    background-color: rgba(0, 128, 0, 0.1);
+}
+
+.card {
+    border: 2px solid #0207ba;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary {
+    background-color: #0207ba;
+    border-color: #ff7900;
+    color: #fff000;
+}
+
+.btn-primary:hover {
+    background-color: #ff7900;
+    border-color: #0207ba;
+    color: #0207ba;
+}
+
+.btn-outline-warning {
+    border-color: #ff7900;
+    color: #ff7900;
+}
+
+.btn-outline-warning:hover {
+    background-color: #ff7900;
+    color: #0207ba;
+}
+
+/* Animations */
+@keyframes slideIn {
+    from { transform: translateX(-100%); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+    40% { transform: translateY(-10px); }
+    60% { transform: translateY(-5px); }
+}
+
+.slide-in {
+    animation: slideIn 0.5s ease-in-out;
+}
+
+.btn-bounce:hover {
+    animation: bounce 0.3s;
+}
+
+/* Responsive Design */
+@media (max-width: 576px) {
+    .navbar-nav {
+        text-align: center;
+    }
+    .reset-btn {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .card {
+        margin: 10px;
+    }
+}

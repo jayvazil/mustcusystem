@@ -1,0 +1,15 @@
+RewriteEngine On
+RewriteBase /
+
+# If the request is for an actual file or directory, serve it
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Redirect URLs ending in .php to extensionless version
+RewriteCond %{THE_REQUEST} \s/([^.]+)\.php[\s?] [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# Rewrite clean URLs in the admins folder
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(admins/[^/]+)/?$ $1.php [L]
